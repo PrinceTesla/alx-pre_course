@@ -1,6 +1,3 @@
-<<<<<<< HEAD
 #!/bin/bash echo"School" 
-=======
 #!/bin/bash
 echo"School" 
->>>>>>> 957a6dc5f9a40644b73b9cc51533188345e33e27
